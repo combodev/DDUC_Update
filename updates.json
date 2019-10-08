@@ -1,0 +1,11 @@
+{
+  "Mod": {
+    "sums_url": "DokiDokiUltimateCombo-0.1-Mod.sums", 
+    "version": "441def47b813cea522b2daf60f94b79fe22edff1044018dc0eedfa4136bb73b8", 
+    "zsync_url": "DokiDokiUltimateCombo-0.1-Mod.zsync", 
+    "json_url": "DokiDokiUltimateCombo-0.1-Mod.update.json", 
+    "pretty_version": "0.1", 
+    "sums_size": 64552, 
+    "digest": "dfb29c3959f9589db6f77792c689c243f79817d35f50aee98102b4cbd6c9ca36"
+  }
+}
